@@ -1,0 +1,5 @@
+@import '~@csstools/normalize.css';
+
+li {
+  list-style: none;
+}
